@@ -1,5 +1,5 @@
 # 🏎️ About Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jordan-martin-2655b0172):
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jordan-martin-2655b0172)
 
 💻 Aspiring Machine Learning Engineer/Data Analyst<br>🛠️ Working on models using Python, SQL, Numpy, Tensorflow<br>⚡️Hobbies: Rockets, Space exploration, chemistry and learning new things!<br>👨🏼‍🎓Bsc (HONS) in Physiology | Machine Learning Specialisation by Andrew Ng<br>🐈‍⬛ I have cats: Nela & Rocket
 
