@@ -1,4 +1,3 @@
-# 💫 About Me:
 💻 Aspiring Machine Learning Engineer/Data Analyst<br>🛠️ Working on models using Python, SQL, Numpy, Tensorflow<br><br>⚡️Hobbies: Rockets, Space exploration, chemistry and learning new things!<br>👨🏼‍🎓Bsc (HONS) in Physiology | Machine Learning Specialisation by Andrew Ng<br><br>🐈‍⬛ I have cats: Nela & Rocket
 
 
